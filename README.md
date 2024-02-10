@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I'm a Data Science and Analytics professional with ~3 years of professional experience 
+- 🔭 I'm a Data Science and Analytics professional with ~4 years of experience
 - 🧑‍🎓 Candidate of Masters in Business Analytics - University of Minnesota, Carlson School of Management
 - ⚡ Passionate about generating insights from data and present the analysis in a simple manner
 - 💬 Ask me about sports, decision trees or the latest tech
